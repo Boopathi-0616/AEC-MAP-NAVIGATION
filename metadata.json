@@ -1,0 +1,6 @@
+{
+  "name": "Arunai Engineering College — Campus Navigation System",
+  "description": "Official smart campus navigation, live GPS tracking, 3D interactive guide, and campus editor for Arunai Engineering College, Tiruvannamalai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
